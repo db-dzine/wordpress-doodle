@@ -1,0 +1,53 @@
+[
+    {
+        "name": "causal/doodle_client",
+        "version": "0.3.0",
+        "version_normalized": "0.3.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/xperseguers/doodle_client.git",
+            "reference": "efb6680f930d303861fe520b8ae87ecdb58f611d"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/xperseguers/doodle_client/zipball/efb6680f930d303861fe520b8ae87ecdb58f611d",
+            "reference": "efb6680f930d303861fe520b8ae87ecdb58f611d",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3,<8.0-DEV"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "~4.0"
+        },
+        "time": "2016-02-01 12:32:58",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "0.3.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Causal\\DoodleClient\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-3.0+"
+        ],
+        "authors": [
+            {
+                "name": "Xavier Perseguers",
+                "email": "xavier@causal.ch",
+                "homepage": "https://github.com/xperseguers/"
+            }
+        ],
+        "description": "A small, lightweight library to interact with Doodle (http://doodle.com)",
+        "homepage": "https://github.com/xperseguers/doodle_client",
+        "keywords": [
+            "doodle"
+        ]
+    }
+]

@@ -1,0 +1,868 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Doodle\n"
+"POT-Creation-Date: 2017-01-06 16:49+0100\n"
+"PO-Revision-Date: 2017-01-06 16:49+0100\n"
+"Last-Translator: Daniel Barenkamp\n"
+"Language-Team: DB-Dzine <support@db-dzine.com>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: admin/redux-framework\n"
+"X-Poedit-SearchPathExcluded-1: admin/redux-extensions\n"
+"X-Poedit-SearchPathExcluded-2: admin/meta-box\n"
+
+#: admin/class-wordpress-doodle-admin.php:130
+#: admin/class-wordpress-doodle-admin.php:238
+#: admin/class-wordpress-doodle-admin.php:382
+msgid ""
+"Could not fetch Doodle data! Please make sure you have set an username & "
+"password!"
+msgstr ""
+
+#: admin/class-wordpress-doodle-admin.php:279
+msgid "Could not create text poll"
+msgstr ""
+
+#: admin/class-wordpress-doodle-admin.php:337
+msgid "Could not create dates poll."
+msgstr ""
+
+#: admin/class-wordpress-doodle-overview.php:23
+msgid "Doodle"
+msgstr "Doodle"
+
+#: admin/class-wordpress-doodle-overview.php:24
+#, fuzzy
+msgid "Doodles"
+msgstr "Doodle"
+
+#: admin/class-wordpress-doodle-overview.php:222
+msgid "No doodles avaliable."
+msgstr ""
+
+#: admin/class-wordpress-doodle-overview.php:261
+#, fuzzy
+msgid "Name"
+msgstr "Name"
+
+#: admin/class-wordpress-doodle-overview.php:262
+#, fuzzy
+msgid "id"
+msgstr "Nr."
+
+#: admin/class-wordpress-doodle-overview.php:263
+msgid "Location"
+msgstr "Ort"
+
+#: admin/class-wordpress-doodle-overview.php:264
+msgid "Description"
+msgstr ""
+
+#: admin/class-wordpress-doodle-overview.php:265
+msgid "Invitees"
+msgstr ""
+
+#: admin/class-wordpress-doodle-overview.php:266
+#, fuzzy
+msgid "Participants"
+msgstr "Teilnehmer"
+
+#: admin/class-wordpress-doodle-overview.php:267
+#: admin/tgm/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr "Typ"
+
+#: admin/class-wordpress-doodle-overview.php:268
+#, fuzzy
+msgid "State"
+msgstr "Bundesland:"
+
+#: admin/class-wordpress-doodle-overview.php:269
+#, fuzzy
+msgid "Export"
+msgstr "Export"
+
+#: admin/class-wordpress-doodle-overview.php:270
+#, fuzzy
+msgid "Actions"
+msgstr "Aktionen"
+
+#: admin/options-init.php:90
+msgid "Information"
+msgstr "Informationen"
+
+#: admin/options-init.php:91
+msgid "<p>Need support? Please use the comment function on codecanyon.</p>"
+msgstr ""
+"<p>Brauchen Sie Hilfe? Dann schildern Sie uns bitte Ihr Problem auf "
+"Codecanyon.</p>"
+
+#: admin/options-init.php:113
+#, fuzzy
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: admin/options-init.php:115
+msgid "Need support? Please use the comment function on codecanyon."
+msgstr ""
+"Brauchen Sie Hilfe? Dann schildern Sie uns bitte Ihr Problem auf Codecanyon."
+
+#: admin/options-init.php:120
+msgid "General"
+msgstr "Allgemein"
+
+#: admin/options-init.php:127
+msgid "Enable"
+msgstr "Aktivieren"
+
+#: admin/options-init.php:128
+msgid "Enable Doodle."
+msgstr "Erlaube Doodle."
+
+#: admin/options-init.php:134
+#, fuzzy
+msgid "Your Name"
+msgstr "Ihr Name"
+
+#: admin/options-init.php:135
+msgid "This will be used for polls that are created by you."
+msgstr ""
+
+#: admin/options-init.php:141
+#, fuzzy
+msgid "Doodle Email"
+msgstr "Doodle"
+
+#: admin/options-init.php:142
+msgid "Put your Doodle Email here."
+msgstr ""
+
+#: admin/options-init.php:148
+#, fuzzy
+msgid "Doodle Password"
+msgstr "Doodle Transaktion"
+
+#: admin/options-init.php:149
+msgid "Put your Doodle Password here."
+msgstr ""
+
+#: admin/options-init.php:156
+msgid "Advanced settings"
+msgstr "Erweiterte Einstellungen"
+
+#: admin/options-init.php:157
+msgid "Custom stylesheet / javascript."
+msgstr "Eigenes Stylesheet / Javascript."
+
+#: admin/options-init.php:165
+msgid "Custom CSS"
+msgstr "Eigenes CSS"
+
+#: admin/options-init.php:166
+msgid "Add some stylesheet if you want."
+msgstr "Gib dem Plugin dein eigenes Styling."
+
+#: admin/options-init.php:172
+msgid "Custom JS"
+msgstr "Eigenes JS"
+
+#: admin/options-init.php:173
+msgid "Add some javascript if you want."
+msgstr "Gib dem Plugin eigene Funktionen."
+
+#: admin/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:394
+#: admin/tgm/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr "Nicht installiert"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr "Aktiv"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr "Status"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr "Aktualisiere %2$s"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr "Installation"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr "Updaten"
+
+#: admin/tgm/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: public/class-wordpress-doodle-public.php:175
+#, fuzzy
+msgid "Location: "
+msgstr "Ort"
+
+#: public/class-wordpress-doodle-public.php:179
+msgid "Description: "
+msgstr ""
+
+#: public/class-wordpress-doodle-public.php:318
+msgid ""
+"Can not fetch Doodle data! Please make sure you have set an username & "
+"password!"
+msgstr ""
+
+#: wordpress-doodle.php:87
+msgid ""
+"Wordpress Doodle requires the free Redux Framework plugin. Please install or "
+"activate them before!"
+msgstr ""
+
+#~ msgid "Doodle Button"
+#~ msgstr "Doodle Button"
+
+#~ msgid "Class attribute"
+#~ msgstr "Klassen Attribute"
+
+#~ msgid "Doodle Transactions"
+#~ msgstr "Doodle Transaktionen"
+
+#~ msgid "Quantity:"
+#~ msgstr "Anzahl:"
+
+#~ msgid "Price:"
+#~ msgstr "Preis:"
+
+#~ msgid "Street:"
+#~ msgstr "Straße:"
+
+#~ msgid "Country:"
+#~ msgstr "Land:"
+
+#~ msgid "Customer Status:"
+#~ msgstr "Kunden-Status"
+
+#~ msgid "Address Status:"
+#~ msgstr "Adressen-Status:"
+
+#~ msgid "Customer"
+#~ msgstr "Kunde"
+
+#~ msgid "Items"
+#~ msgstr "Posten"
+
+#~ msgid "Payment Gross"
+#~ msgstr "Zahlung (brutto)"
+
+#~ msgid "Payment Status"
+#~ msgstr "Zahlungsstatus"
+
+#~ msgid "Country"
+#~ msgstr "Land"
+
+#~ msgid "Germany"
+#~ msgstr "Deutschland"
+
+#~ msgid "Currency"
+#~ msgstr "Währung"
+
+#~ msgid "Send"
+#~ msgstr "Senden"
+
+#~ msgid "paypal Button"
+#~ msgstr "Paypal Button"
+
+#~ msgid "Remove"
+#~ msgstr "Entfernen"
+
+#~ msgid "Add"
+#~ msgstr "Hinzufügen"
+
+#~ msgid "Remove Image"
+#~ msgstr "Bild entfernen"
+
+#~ msgid "Upload Image"
+#~ msgstr "Bild Hochladen"
+
+#~ msgid "Columns "
+#~ msgstr "Spalten"
+
+#~ msgid "Sidebar Text"
+#~ msgstr "Siebar Text"
+
+#~ msgid "Footer Text"
+#~ msgstr "Footer Text"
+
+#~ msgid "Default"
+#~ msgstr "Standard"
+
+#~ msgid "h3"
+#~ msgstr "h3"
+
+#~ msgid "Enable Sidebar."
+#~ msgstr "Sidebar aktivieren"
+
+#~ msgid "Sidebar Title"
+#~ msgstr "Sidebar Titel"
+
+#~ msgid "Category Title"
+#~ msgstr "Kategorie-Titel"
+
+#~ msgid "Custom Title"
+#~ msgstr "Eigener Titel"
+
+#~ msgid "Store"
+#~ msgstr "Filiale"
+
+#~ msgid "Stores"
+#~ msgstr "Filialen"
+
+#~ msgid "Store Locator"
+#~ msgstr "Filialsuche"
+
+#~ msgid "All %s"
+#~ msgstr "Alle %s"
+
+#~ msgid "New %s"
+#~ msgstr "Neue %s"
+
+#~ msgid "Add New %s"
+#~ msgstr "Neue %s hinzufügen"
+
+#~ msgid "Edit %s"
+#~ msgstr "Editiere %s"
+
+#~ msgid "View %s"
+#~ msgstr "Zeige %s"
+
+#~ msgid "Search %s"
+#~ msgstr "Suche %s"
+
+#~ msgid "No %s found"
+#~ msgstr "Keine %s gefunden"
+
+#~ msgid "No %s found in trash"
+#~ msgstr "Keine %s im Papierkorb gefunden"
+
+#~ msgid "Store Category"
+#~ msgstr "Filialkategorie"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Parent %s:"
+#~ msgstr "Übergeordnetes %s:"
+
+#~ msgid "New %s Name"
+#~ msgstr "Neuer %s Name"
+
+#~ msgid "Store Filter"
+#~ msgstr "Filter"
+
+#~ msgid "Link to Product Category "
+#~ msgstr "Link zu Produktkategorie"
+
+#~ msgid "Contact"
+#~ msgstr "Kontakt"
+
+#~ msgid "Tel.:"
+#~ msgstr "Tel.:"
+
+#~ msgid "Mobile:"
+#~ msgstr "Mobil"
+
+#~ msgid "Email:"
+#~ msgstr "Email"
+
+#~ msgid "Website:"
+#~ msgstr "Webseite"
+
+#~ msgid "Address Line 1"
+#~ msgstr "Adresse 1"
+
+#~ msgid "Address Line 2"
+#~ msgstr "Adresse 2"
+
+#~ msgid "ZIP"
+#~ msgstr "PLZ"
+
+#~ msgid "City"
+#~ msgstr "Stadt"
+
+#~ msgid "Contact Information"
+#~ msgstr "Kontaktinformation"
+
+#~ msgid "Telephone"
+#~ msgstr "Telefon"
+
+#~ msgid "Mobile"
+#~ msgstr "Mobil"
+
+#~ msgid "Fax"
+#~ msgstr "Fax"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Website"
+#~ msgstr "Webseite"
+
+#~ msgid "Premium Store"
+#~ msgstr "Premium Filiale"
+
+#~ msgid "Be Careful"
+#~ msgstr "Sei vorsichtig"
+
+#~ msgid "Opening Hours"
+#~ msgstr "Öffnungszeiten"
+
+#~ msgid "Enable store locator."
+#~ msgstr "Aktiveren den Filialfinder"
+
+#~ msgid "Google Api Key"
+#~ msgstr "Google Api Key"
+
+#~ msgid "Map"
+#~ msgstr "Karte"
+
+#~ msgid "Width (in Columns)"
+#~ msgstr "Weite (in Spalten)"
+
+#~ msgid "Result List"
+#~ msgstr "Ergebnisliste"
+
+#~ msgid "Website Text"
+#~ msgstr "Webseite Text"
+
+#~ msgid "Email Text"
+#~ msgstr "Email Text"
+
+#~ msgid "Monday Text"
+#~ msgstr "Montag Text"
+
+#~ msgid "Show Stores Categories"
+#~ msgstr "Zeige Filialkategorien"
+
+#~ msgid "Get Direction Text"
+#~ msgstr "Wegbeschreibung Text"
+
+#~ msgid "Enables the single product custom button."
+#~ msgstr "Aktiviert den Einzelprodukt-Seiten Button"
+
+#~ msgid "Button Text"
+#~ msgstr "Button Text"
+
+#~ msgid "Text inside the custom button."
+#~ msgstr "Text im Button"
+
+#~ msgid "Button Position"
+#~ msgstr "Button Position"
+
+#~ msgid "Button Action"
+#~ msgstr "Button Aktion"
+
+#~ msgid "What happens when the User clicks the button."
+#~ msgstr "Was passiert wenn der Nutzer den Button klickt."
+
+#~ msgid "Go to custom URL"
+#~ msgstr "Gehe zu URL"
+
+#~ msgid "Button custom URL"
+#~ msgstr "Eigene URL"
+
+#~ msgid "The URL where the user will be sent to when he clicked the button."
+#~ msgstr "URL wo der Nutzer hingeleitet wird, falls er auf den Button klickt."
+
+#~ msgid "Custom Button URL target"
+#~ msgstr "Ziel der URL"
+
+#~ msgid "The target attribute of the link."
+#~ msgstr "Das Ziel-Attribut des Links."
+
+#~ msgid "_self (same Window)"
+#~ msgstr "_self (selbes Fenster)"
+
+#~ msgid "_blank (new Window)"
+#~ msgstr "_blank (neues Fenster)"
+
+#~ msgid "_parent (parent Window)"
+#~ msgstr "_parent (Eltern-Fenster)"
+
+#~ msgid "_top (full body of the Window)"
+#~ msgstr "_top (ganzes Fenster)"
+
+#~ msgid "The title of the Store locator Modal"
+#~ msgstr "Der Titel des Filialfinders"
+
+#~ msgid "Modal size"
+#~ msgstr "Größe des Pop-Up-Fensters"
+
+#~ msgid "Size of the modal."
+#~ msgstr "Die Größe des Pop-Up-Fensters"
+
+#~ msgid "Normal"
+#~ msgstr "Normal"
+
+#~ msgid "Small"
+#~ msgstr "Klein"
+
+#~ msgid "Large"
+#~ msgstr "Groß"
+
+#~ msgid "Get my Position"
+#~ msgstr "Verwende meine aktuelle Adresse"
+
+#~ msgid "Results"
+#~ msgstr "Ergebnisse"
+
+#~ msgid "Filter"
+#~ msgstr "Filter"
+
+#~ msgid "Select a Category"
+#~ msgstr "Wähle eine Kategorie"
+
+#~ msgid "Attribute Groups"
+#~ msgstr "Attribut Gruppen"
+
+#~ msgid "Attribute Group"
+#~ msgstr "Attribut Gruppe"
+
+#~ msgid "Add New Attribute Group"
+#~ msgstr "Neue Attribut-Gruppe hinzufügen"
+
+#~ msgid "Edit Attribute Group"
+#~ msgstr "Attribut-Gruppe editieren"
+
+#~ msgid "New Attribute Group"
+#~ msgstr "Neue Attribut-Gruppe"
+
+#~ msgid "View Attribute Group"
+#~ msgstr "Attribut-Gruppe anzeigen"
+
+#~ msgid "Attribute Group Image"
+#~ msgstr "Bild der Attributgruppe"
+
+#, fuzzy
+#~ msgid "Group Attributes"
+#~ msgstr "Attribut Gruppen"
+
+#~ msgid "Enable group attributes."
+#~ msgstr "Aktiviere die Attributsgruppierung"
+
+#, fuzzy
+#~ msgid "Multiple Attributes"
+#~ msgstr "Attribut-Gruppe anzeigen"
+
+#~ msgid "Catalog Mode"
+#~ msgstr "Katalog Modus"
+
+#~ msgid "Enable catalog mode to use the options below"
+#~ msgstr ""
+#~ "Aktiviere den Katalog-Modus um die Optionen unten benutzen zu können"
+
+#~ msgid "Remove add to cart button"
+#~ msgstr "Entferne den Warenkorb-Button"
+
+#~ msgid "Removes the add to cart button on single product and category pages."
+#~ msgstr ""
+#~ "Entfernt den „Zum Warenkorb hinzufügen“-Button auf Produkt- und "
+#~ "Kategorieseiten."
+
+#~ msgid "Removes price on single product and category pages."
+#~ msgstr "Entfernt den Preis auf Produkt- und Kategorieseiten."
+
+#~ msgid "Redirect Cart / Checkout Page"
+#~ msgstr "Warenkorb und Kassen-Seiten Umleiten"
+
+#~ msgid "Redirects the cart and checkout page to your home page."
+#~ msgstr "Richtet eine Weiterleitung für die Warenkorb und Kassen-Seite ein."
+
+#~ msgid "Apply for users"
+#~ msgstr "Anwenden auf Nutzer"
+
+#~ msgid "Which user group should be affected by the catalog mode."
+#~ msgstr "Welche Nutzer sollen betroffen sein?"
+
+#~ msgid "All"
+#~ msgstr "Alle"
+
+#~ msgid "Only NOT logged in"
+#~ msgstr "Nur „NICHT“ eingeloggte User"
+
+#~ msgid "Only Logged in"
+#~ msgstr "Nur eingeloggte User"
+
+#~ msgid "Exclusions"
+#~ msgstr "Ausnahmen"
+
+#~ msgid ""
+#~ "With the below settings you can exclude products / categories so that the "
+#~ "price and add to cart will be shown."
+#~ msgstr "Der Preis und Warenkorb-Button wird trotzdem angezeigt."
+
+#~ msgid "Which product categories should be excluded by the catalog mode."
+#~ msgstr "Welche Produktkategorien sollen nicht betroffen werden?"
+
+#~ msgid "Exclude Products "
+#~ msgstr "Ausnahmen für Produkte"
+
+#~ msgid "Which products should be excluded by the catalog mode."
+#~ msgstr "Welche Produkte sollen nicht betroffen werden?"
+
+#~ msgid ""
+#~ "Replace the add to cart button on category / archive / tag pages with "
+#~ "your own button."
+#~ msgstr ""
+#~ "Ersetzt den Warenkorb-Button auf Kategorie, Archiv und Tag-Seiten durch "
+#~ "einen eigenen."
+
+#~ msgid "Enables the custom button on loop pages."
+#~ msgstr "Aktivere den eigenen Button auf Schleifen-Seiten"
+
+#~ msgid "Go to product page"
+#~ msgstr "Gehe zur Produktseite"
+
+#~ msgid "Button custom URL target"
+#~ msgstr "Button URL-Target"
+
+#~ msgid ""
+#~ "Replace the add to cart button on single product pages with your own."
+#~ msgstr ""
+#~ "Ersetzt den Warenkorb-Button auf Einzelprodukt-Seiten durch Ihren eigenen."
+
+#~ msgid "Open enquiry form"
+#~ msgstr "Öffne ein Kontaktformular"
+
+#~ msgid "Enquiry contact form"
+#~ msgstr "Kontaktformular"
+
+#~ msgid "Please insert your contact form shortcode."
+#~ msgstr "Shortcode des Kontaktformulars."
+
+#~ msgid "What happens when the User clicks this button."
+#~ msgstr "Was passiert wenn der Nutzer den Button klickt."

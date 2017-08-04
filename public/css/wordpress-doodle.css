@@ -1,0 +1,20 @@
+a.doodle-button {
+	background-color: #035dda;
+	color: #FFFFFF;
+}
+
+a.doodle-button:hover, a.doodle-button:active {
+	background-color: #006ff1;
+}
+
+a.doodle-button:before {
+	width: 20px;
+    content: " ";
+    background-image: url(../img/doodle-fav-white.png);
+    display: inline-block;
+    background-size: cover;
+    height: 20px;
+    position: relative;
+    top: 4px;
+    margin-right: 5px;
+}
