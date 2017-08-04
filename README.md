@@ -37,44 +37,21 @@ _It is not possible to directly embed a Doodle poll, because Iframes etc are for
 
 # Documentation
 
-
-
-# Wordpress  
-Doodle Plugin
-
-<small>Thank you for the purchase. We hope you love this plugin!</small>
+<small>We hope you love this plugin!</small>
 
 * * *
 
 If you find any bugs or enhancements in this script get in touch with a clear description of the problem so we can fix it. We <span style="text-decoration: underline;">do not</span> support modifications!  
 
-
-
-
-
 #### Requirements
 
 The following things are required to run this script:
 
-
-
-
-
-
-
 *   PHP 5.4.0+
 *   MySQL 5+
 *   Apache
-
-
-
-
 *   Wordpress 3.8+
 *   Redux Framework Plugin
-
-
-
-
 
 * * *
 
@@ -86,8 +63,6 @@ The following things are required to run this script:
 4.  [Troubleshooting](#troubleshooting)
 
 * * *
-
-
 
 ## Installation
 
@@ -113,11 +88,7 @@ Make sure you have installed the Redux Framework Plugin before installation!
 
 [<span class="icon-arrow-up"></span>Return to the Index](#index)
 
-
-
 * * *
-
-
 
 ## Setup
 
